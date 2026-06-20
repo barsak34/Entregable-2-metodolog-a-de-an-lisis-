@@ -1,4 +1,4 @@
-# Entregable 3: Arquitectura Tecnológica e Integración - Sistema de Logística 🚚
+# Entregable 3: Arquitectura Tecnológica e Integración - Sistema de Logística 
 
 
 El proyecto está dividido en dos servicios independientes que se comunican entre sí por debajo:
